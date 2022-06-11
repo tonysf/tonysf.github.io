@@ -64,3 +64,8 @@ ul.posts li {
     margin-left: 10px;
     list-style-type: square;
 }
+
+label {
+    float: left;
+    margin: 0 0 0 -45px;
+  }
