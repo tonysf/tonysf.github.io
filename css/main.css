@@ -41,13 +41,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-figure {
-    display: inline-block;
-    margin: 20px; /* adjust as needed */
-}
-figure img {
-    vertical-align: top;
-}
-figure figcaption {
-    text-align: center;
-}
