@@ -51,7 +51,7 @@ ul.posts li {
     font-size: 1.5em;
     color: #eeeeee;
     list-style: none;
-    margin-left: 15px;
+    margin-left: 25px;
 }
 
 .publications li {
@@ -67,5 +67,5 @@ ul.posts li {
 
 label {
     float: left;
-    margin: 0 0 0 -45px;
+    margin: 0 0 0 -55px;
   }
