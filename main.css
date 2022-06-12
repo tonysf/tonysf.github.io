@@ -51,11 +51,11 @@ ul.posts li {
     font-size: 1.5em;
     color: #eeeeee;
     list-style: none;
-    margin-left: 25px;
+    margin-left: 10px;
 }
 
 .publications li {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .teaching {
@@ -67,5 +67,5 @@ ul.posts li {
 
 label {
     float: left;
-    margin: 0 0 0 -55px;
-  }
+    margin: 0 0 0 -75px;
+}
