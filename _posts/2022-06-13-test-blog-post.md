@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A test blog post to see if it works."
+title: "test-blog-post"
 date: 2022-06-13
 ---
 
