@@ -2,41 +2,50 @@ body {
     margin: 60px auto;
     width: 70%;
     color: #eeeeee;
-    background-color: black;
+    background-color: rgb(50, 50, 0);
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 nav a, footer a {
     text-decoration: underline;
 }
+
 nav a:hover, footer a:hover {
     text-decoration: underline;
     color: #5c0000;
 }
+
 a {
     text-decoration: none;
     color: rgb(209, 95, 95);
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #eeeeee;
 }
+
 footer {
     border-top: 1px solid #eeeeee;
     font-size: .8em;
@@ -52,14 +61,14 @@ ul.posts li {
     font-size: 1.5em;
 }
 
-.publications {
+ul.publications {
     font-size: 1.5em;
     color: #eeeeee;
     list-style: none;
     margin-left: 35px;
 }
 
-.publications li {
+ul.publications li {
     margin-bottom: 10px;
 }
 
