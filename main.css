@@ -13,7 +13,7 @@ header .name{
     width: 25%;
     text-align: left;
     font-size: 22px;
-    font-family: 'Dejavu Sans', 'Arial';
+    font-family: "Dejavu Sans", Monaco, monospace;
     font-weight: bold;
 }
 nav ul,  {
@@ -21,7 +21,6 @@ nav ul,  {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    float: right;
 }
 nav ul li {
     display: inline;
