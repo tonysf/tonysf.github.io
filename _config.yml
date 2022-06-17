@@ -1,2 +1,31 @@
+name: Antonio Silveti-Falls
+markdown: kramdown
+plugins:
+        - jekyll-seo-tag
+        - jekyll-last-modified-at
+
+last-modified-at:
+    date-format: '%d-%b-%y'
+
+title: Jekyll SEO Tag
+description: Web page of Antonio Silveti-Falls, asst. prof. in artifical intelligence at CentraleSupélec, University of Paris-Saclay - CVN Laboratory.
+
+author:
         name: Antonio Silveti-Falls
-        markdown: kramdown
+        url: https://tonysf.github.io
+        picture: /images/tsf_portait.jpg
+
+seo:
+        type: Person
+
+twitter:
+        username: tonysilveti
+        card: Web page of Antonio Silveti-Falls
+
+social:
+  name: Antonio Silveti-Falls
+  links:
+    - https://twitter.com/tonysilveti
+    - https://www.linkedin.com/in/antonio-silveti-falls-645669b1/
+    - https://github.com/tonysf
+    - https://www.researchgate.net/profile/Tony-Silveti-Falls
