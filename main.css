@@ -4,15 +4,31 @@ body {
     color: #eeeeee;
     background-color: black;
 }
-nav ul, footer ul {
+header{
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+header .name{
+    width: 25%;
+    text-align: left;
+    font-size: 22px;
+    font-family: "Dejavu Sans", Monaco, monospace;
+    font-weight: bold;
+}
+nav ul,  {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li {
     display: inline;
     margin-right: 20px;
+}
+footer ul li {
+    display: inline;
+    margin-left: 20px;
 }
 a {
     text-decoration: none;
