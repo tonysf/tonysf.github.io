@@ -18,12 +18,12 @@ nav ul li, footer ul li {
 }
 
 nav a, footer a {
-    text-decoration: underline;
+    border-bottom: 2px solid #eeeeee;
 }
 
 nav a:hover, footer a:hover {
     text-decoration: underline;
-    color: #5c0000;
+    color: #eeeeee;
 }
 
 a {
