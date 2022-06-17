@@ -18,7 +18,7 @@ nav ul li, footer ul li {
 }
 
 nav a, footer a {
-    border-bottom: 2px solid #eeeeee;
+    border-bottom: 2px solid rgb(209, 95, 95);
 }
 
 nav a:hover, footer a:hover {
