@@ -69,28 +69,28 @@ h1 {
 }
 
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.3em;
+    line-height: 1.3em;
     color: #eeeeee;
 }
 
 footer {
     border-top: 1px solid #eeeeee;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 ul.posts li {
     list-style: none;
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 ul.publications {
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: #eeeeee;
     list-style: none;
     margin-left: 35px;
@@ -101,7 +101,7 @@ ul.publications li {
 }
 
 ul.teaching {
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: #eeeeee;
     margin-left: 10px;
     list-style-type: square;
