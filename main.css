@@ -26,6 +26,7 @@ nav ul li.span-full
 
 nav ul li {
     display: table-cell;
+    vertical-align: middle
     padding-right: 30px;
     white-space: nowrap;
 }
