@@ -6,7 +6,7 @@ body {
 }
 
 nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.7em;
     display: table;
     list-style: none;
@@ -47,7 +47,7 @@ footer ul li:last-child {
     float: right;
     display: inline;
     margin-left: 20px;
-    margin-right 0px;
+    margin-right: 0px;
 }
 
 nav a, footer a {
