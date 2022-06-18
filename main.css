@@ -35,6 +35,7 @@ nav ul li {
 nav ul li:first-child {
     display: inline;
     margin-right: 20px;
+    margin-left: 0px;
     float: left;
 }
 
@@ -47,9 +48,8 @@ footer ul li:last-child {
     float: right;
     display: inline;
     margin-left: 20px;
+    margin-right 0px;
 }
-
-
 
 nav a, footer a {
     border-bottom: 2px solid rgb(209, 95, 95);
