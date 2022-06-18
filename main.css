@@ -33,6 +33,8 @@ nav ul li {
 }
 
 nav ul li:first-child {
+    display: inline;
+    margin-right: 20px;
     float: left;
 }
 
@@ -40,6 +42,14 @@ footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+footer ul li:nth-child(6) {
+    float: right;
+    display: inline;
+    margin-left: 20px;
+}
+
+
 
 nav a, footer a {
     border-bottom: 2px solid rgb(209, 95, 95);
