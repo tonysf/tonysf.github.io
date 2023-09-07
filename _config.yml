@@ -2,10 +2,10 @@ name: Antonio Silveti-Falls
 markdown: kramdown
 plugins:
         - jekyll-seo-tag
-#        - jekyll-last-modified-at
+        - jekyll-last-modified-at
 
-#last-modified-at:
-#    date-format: '%d-%b-%y'
+last-modified-at:
+    date-format: '%d-%b-%y'
 
 title: Jekyll SEO Tag
 description: Web page of Antonio Silveti-Falls, asst. prof. in artifical intelligence at CentraleSupélec, University of Paris-Saclay - CVN Laboratory.
