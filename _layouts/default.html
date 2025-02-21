@@ -1,43 +1,62 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-	<head>
-		<title>{{ page.title }}</title>
-        <link rel="stylesheet" type="text/css" href="/main.css">
-		{% seo %}
-	</head>
-	<body>
-		<nav>
-			<ul>
-				<li class="span-full"><img style='object-fit: contain; border-radius: 15%;'
-					src="/images/tsf_portrait.jpg"
-					alt="Photograph of Antonio Silveti-Falls" /></li>
-				<li><a href="/">Home</a></li>
-        		<li><a href="/publications">Publications</a></li>
-        		<li><a href="/talks">Talks</a></li>
-        		<li><a href="/teaching">Teaching</a></li>
-			<li><a href="/cv">CV</a></li>
-			<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<br>
-			<div class="container">
-			    		<div class="blurb">
-
-			            {{ content }}
-                
-			    		</div><!-- /.blurb -->
-			</div><!-- /.container -->
-		<br>
-		<footer>
-    		<ul>
-        		<li>tonys[dot]falls[at]gmail[dot]com</li>
-        		<li><a href="https://scholar.google.com/citations?user=t8GKm5kAAAAJ&hl=fr&oi=ao">Google Scholar</a></li>
-				<li><a href="https://arxiv.org/search/?query=silveti-falls+antonio&searchtype=all&source=header">arXiv</a></li>
-				<li><a href="https://twitter.com/tonysilveti">Twitter</a></li>
-				<li><a href="https://www.researchgate.net/profile/Tony-Silveti-Falls">ResearchGate</a></li>
-				<li><a href="https://orcid.org/0000-0002-8165-6348">ORCiD</a></li>
-				<li>Last updated: January 16th, 2024.</li>
-			</ul>
-		</footer>
-	</body>
+    <head>
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" type="text/css" href="/main.css" />
+        {% seo %}
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li class="span-full">
+                    <img
+                        style="object-fit: contain; border-radius: 15%"
+                        src="/images/tsf_portrait.jpg"
+                        alt="Photograph of Antonio Silveti-Falls"
+                    />
+                </li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/publications">Publications</a></li>
+                <li><a href="/talks">Talks</a></li>
+                <li><a href="/teaching">Teaching</a></li>
+                <li><a href="/cv">CV</a></li>
+                <li><a href="/blog">Blog</a></li>
+            </ul>
+        </nav>
+        <br />
+        <div class="container">
+            <div class="blurb">{{ content }}</div>
+            <!-- /.blurb -->
+        </div>
+        <!-- /.container -->
+        <br />
+        <footer>
+            <ul>
+                <li>tonys[dot]falls[at]gmail[dot]com</li>
+                <li>
+                    <a
+                        href="https://scholar.google.com/citations?user=t8GKm5kAAAAJ&hl=fr&oi=ao"
+                        >Google Scholar</a
+                    >
+                </li>
+                <li>
+                    <a
+                        href="https://arxiv.org/search/?query=silveti-falls+antonio&searchtype=all&source=header"
+                        >arXiv</a
+                    >
+                </li>
+                <li><a href="https://twitter.com/tonysilveti">Twitter</a></li>
+                <li>
+                    <a
+                        href="https://www.researchgate.net/profile/Tony-Silveti-Falls"
+                        >ResearchGate</a
+                    >
+                </li>
+                <li>
+                    <a href="https://orcid.org/0000-0002-8165-6348">ORCiD</a>
+                </li>
+                <li>Last updated: February 21st, 2025.</li>
+            </ul>
+        </footer>
+    </body>
 </html>
