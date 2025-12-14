@@ -16,15 +16,17 @@ and a cases environment inline <span>$a = \begin{cases}x & 0\\ c & 0 \end{cases}
 
 This is displayed math
 
+$$
 \begin{equation}
-a + b = c
+  a + b = c
 \end{equation}
+$$
 
 And this is displayed math with multiline stuff
 
-\begin{equation}
+$$
 \begin{aligned}
-a & b\\
-c & d
+  a & b\\
+  c & d
 \end{aligned}
-\end{equation}
+$$
