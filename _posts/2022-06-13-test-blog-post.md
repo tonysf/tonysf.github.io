@@ -10,9 +10,11 @@ Let's test the math. This is inline math \\(\mathrm{lmo}\_{\mathcal{B}}(\nabla f
 
 This is a math environment
 
+$$'
 \begin{equation}
 a + b = c
 \end{equation}
+'$$
 
 And this is a math environment with multiline stuff
 
@@ -25,4 +27,4 @@ c & d
 \end{equation}
 ```
 
-and a cases environment inline \(a = \begin{cases}x & 0\\\\ c & 0 \end{cases}\).
+and a cases environment inline $'a = \begin{cases}x & 0\\\\ c & 0 \end{cases}'$.
