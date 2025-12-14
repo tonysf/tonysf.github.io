@@ -16,11 +16,13 @@ a + b = c
 
 And this is a math environment with multiline stuff
 
+```math
 \begin{equation}
 \begin{aligned}
-a & b\\\\
+a & b\\
 c & d
 \end{aligned}
 \end{equation}
+```
 
 and a cases environment inline \(a = \begin{cases}x & 0\\\\ c & 0 \end{cases}\).
