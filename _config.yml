@@ -1,5 +1,8 @@
 name: Antonio Silveti-Falls
 markdown: kramdown
+kramdown:
+  math_engine: null
+  input: GFM
 plugins:
   - jekyll-seo-tag
   - jekyll-last-modified-at
