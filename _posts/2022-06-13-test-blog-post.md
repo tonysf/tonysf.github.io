@@ -26,7 +26,7 @@ And this is displayed math with multiline stuff
 
 $$
 \begin{aligned}
-  a & b\\
-  c & d
+  a & \quad b\\
+  c\quad & d
 \end{aligned}
 $$
