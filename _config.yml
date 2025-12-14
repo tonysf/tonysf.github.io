@@ -3,8 +3,6 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-last-modified-at
-kramdown:
-  math_engine: null
 
 last-modified-at:
   date-format: "%d-%b-%y"

@@ -65,7 +65,10 @@
                 <li>
                     <a href="https://orcid.org/0000-0002-8165-6348">ORCiD</a>
                 </li>
-                <li>Last updated: June 19th, 2025.</li>
+                <li>
+                    Last updated: {{ page.last_modified_at | date: "%B %d, %Y" |
+                    default: "June 19th, 2025" }}
+                </li>
             </ul>
         </footer>
     </body>
