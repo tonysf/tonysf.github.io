@@ -8,12 +8,12 @@ last-modified-at:
   date-format: "%d-%b-%y"
 
 title: Jekyll SEO Tag
-description: Web page of Antonio Silveti-Falls, asst. prof. in artifical intelligence at CentraleSupélec, University of Paris-Saclay - CVN Laboratory.
+description: Web page of Antonio Silveti-Falls, associate professor in artificial intelligence at CentraleSupélec, University of Paris-Saclay - CVN Laboratory.
 
 author:
   name: Antonio Silveti-Falls
   url: https://tonysf.github.io
-  picture: /images/tsf_portait.jpg
+  picture: /images/tsf_portrait.jpg
 
 seo:
   type: Person
